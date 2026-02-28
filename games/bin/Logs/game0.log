@@ -1,0 +1,51 @@
+0: [Con] Hedgewars engine 1.1.0-rGIT (df8537b50) with protocol #60
+0: 0: /home/ubuntu/games/bin/hwengine
+0: 1: --data-dir
+0: 2: /home/ubuntu/games/share/hedgewars/Data
+0: [Con] Init SDL... 
+0: [Con] ok
+0: [Con] Init SDL_ttf... 
+0: [Con] ok
+0: [Cmd] fullscr 0
+0: Preparing to change video parameters...
+0: [Con] Init SDL_image... 
+0: [Con] ok
+0: [Con] Loading /Graphics/hwengine.png [flags: 8] ok (32x32)
+0: Setting up OpenGL (using driver: x11)
+0: OpenGL-- Renderer: llvmpipe (LLVM 20.1.2, 128 bits)
+0:   |----- Vendor: Mesa
+0:   |----- Version: 4.5 (Compatibility Profile) Mesa 25.2.8-0ubuntu0.24.04.1
+0:   |----- Texture Size: 16384
+0:   \----- Extensions: 
+0: GL_ARB_multisample GL_EXT_abgr GL_EXT_bgra
+0: GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract
+0: GL_EXT_copy_texture GL_EXT_subtexture GL_EXT_texture_object
+0: GL_EXT_vertex_array GL_EXT_compiled_vertex_array GL_EXT_texture
+0: GL_EXT_texture3D GL_IBM_ras
+0: 
+0: [Con] Number of game controllers: 0
+0: [Con] Not using any game controller
+0: [BINDS] Loading binds from: /Config/settings.ini
+0: [BINDS] file not found
+0: [Con] Getting game config...
+0: LoadFonts();
+0: [Con] Loading /Fonts/DejaVuSans-Bold.ttf (12pt)... 
+0: [Con] ok
+0: [Con] Loading /Fonts/DejaVuSans-Bold.ttf (24pt)... 
+0: [Con] ok
+0: [Con] Loading /Fonts/DejaVuSans-Bold.ttf (10pt)... 
+0: [Con] ok
+0: [Con] Loading /Fonts/DejaVuSans-Bold.ttf (12pt)... 
+0: [Con] ok
+0: [Con] Loading /Fonts/wqy-zenhei.ttc (12pt)... 
+0: [Con] ok
+0: [Con] Loading /Fonts/wqy-zenhei.ttc (24pt)... 
+0: [Con] ok
+0: [Con] Loading /Fonts/wqy-zenhei.ttc (10pt)... 
+0: [Con] ok
+0: [Con] Loading /Fonts/wqy-zenhei.ttc (12pt)... 
+0: [Con] ok
+0: [Con] Loading progress sprite: 
+0: [Con] Loading /Graphics/Progress.png [flags: 6] ok (324x972)
+0: [Con] RenderString: fail to create surface
+0: [Cmd] fatal RenderString: fail to create surface

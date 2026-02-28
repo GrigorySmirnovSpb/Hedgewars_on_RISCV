@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "$(date): Запуск с параметрами: $@" >> /tmp/hwengine.log
+exec /home/ubuntu/games/bin/hwengine.real "$@" 2>&1 | tee -a /tmp/hwengine_output.log
